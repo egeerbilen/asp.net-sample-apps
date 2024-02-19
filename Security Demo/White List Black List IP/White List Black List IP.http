@@ -1,0 +1,6 @@
+@White_List_Black_List_IP_HostAddress = http://localhost:5281
+
+GET {{White_List_Black_List_IP_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,55 @@
+3. Data Protection
+29 dak
+Oynat
+4. Data Protection-2
+16 dak
+Oynat
+5. Data Protection-3
+7 dak
+Oynat
+6. WhiteList/BlackList IP control-1
+27 dak
+Oynat
+7. WhiteList/BlackList IP control-2
+15 dak
+Oynat
+8. Secret Protection
+31 dak
+Oynat
+9. CORS(Cross Site Resource Sharing)
+9 dak
+Oynat
+10. CORS(Cross Site Resource Sharing)-2
+14 dak
+Oynat
+11. CORS(Cross Site Resource Sharing)-3
+11 dak
+Oynat
+12. CORS(Cross Site Resource Sharing)-4
+11 dak
+Oynat
+13. Cross-site scripting attacks(XSS)
+5 dak
+Oynat
+14. Reflected XSS
+25 dak
+Oynat
+15. Stored XSS
+18 dak
+Oynat
+16. HtmlEncoder/javaScriptEncoder/UrlEncoder nedir ?
+6 dak
+Oynat
+17. Cross-site Request Forgery(CSRF)
+6 dak
+Oynat
+18. Cross-site Request Forgery(CSRF)-2
+14 dak
+Oynat
+19. Open redirect attacks
+18 dak
+Oynat
+20. HTTPS ve HSTS(http strict transport security)
+6 dak
+Oynat
+21. SQL injection attack

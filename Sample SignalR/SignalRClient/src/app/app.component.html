@@ -1,0 +1,12 @@
+<div>
+  <input [(ngModel)]="user" placeholder="Enter your name">
+</div>
+<div>
+  <ul>
+    <li *ngFor="let msg of messages">{{ msg.user }}: {{ msg.message }}</li>
+  </ul>
+</div>
+<div>
+  <input [(ngModel)]="message" placeholder="Type a message...">
+  <button (click)="sendMessage()">Send</button>
+</div>
